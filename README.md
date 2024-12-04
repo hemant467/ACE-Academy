@@ -39,3 +39,5 @@ GATE 2025: Electronics & Communication Engineering | Last 70 Days Preparation Ro
 ![Year-wise subject weightage - 2](https://github.com/user-attachments/assets/88550d8d-6766-4cc6-a76f-bc93cdc6a11b)
 
 <p align="center"><b>🏛️ ACE-Academy 🎓</b></p>
+
+<p align="center"><a href="https://github.com/hemant467/ACE-Academy"><b>🏛️ ACE-Academy 🎓</b></a></p>
