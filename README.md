@@ -52,6 +52,10 @@ GATE 2025: Electronics & Communication Engineering | Last 70 Days Preparation Ro
 
 <p align="center"><b>🏛️ ACE-Academy 🎓</b></p>
 
+![ACE ID Card](https://github.com/user-attachments/assets/f94d8d23-ac00-4862-8036-2f1224bf9d97)
+
+![ACE ID Card Merged](https://github.com/user-attachments/assets/77969c53-acdc-4f59-bca1-ef7855988bdc)
+
 <p align="center"><a href="https://github.com/hemant467/ACE-Academy"><b>🏛️ ACE-Academy 🎓</b></a></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
