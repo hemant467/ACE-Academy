@@ -8,6 +8,12 @@
 
 ---
 
+🏛️ ACE-Academy 🎓 Electronics & Communication📝 NOTES ✍️
+
+<p align="center"><a href="https://drive.google.com/drive/folders/1WFpgzgAt2nxE1s3U7GZhIy8FkLMRWVG_">📝 NOTES ✍️ drive</a></p>
+
+---
+
 🛰️ GATE Electronics and Communication Engineering Syllabus & Subject Wise Weightage 📡
 
 <p align="center"><a href="https://www.aceenggacademy.com/gate-electronics-communications-engineering-syllabus/">🛰️ GATE Electronics and Communication Engineering Syllabus & Subject Wise Weightage 📡</a></p>
