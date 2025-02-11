@@ -20,6 +20,13 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## **GATE 2025 Exam Schedule**
+
+![GATE 2025 _ Examination Schedule](https://github.com/user-attachments/assets/ca9db5d3-d039-42f3-97ff-0854641ed9b7)
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## **Qualifying GATE Cutoff 2025**
 
 <p align="center"><a href="https://engineering.careers360.com/articles/gate-cutoff">Qualifying GATE Cutoff 2025</a></p>
