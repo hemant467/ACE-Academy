@@ -20,10 +20,15 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## **🏛️ ACE-Academy 🎓 ECE Faculty**
+
+![ACE Academy ECE faculty](https://github.com/user-attachments/assets/2bb2c2e4-88e5-4e46-b67a-4cffef55fe41)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## **GATE 2025 Exam Schedule**
 
 ![GATE 2025 _ Examination Schedule](https://github.com/user-attachments/assets/ca9db5d3-d039-42f3-97ff-0854641ed9b7)
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
